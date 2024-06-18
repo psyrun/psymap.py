@@ -1,11 +1,3 @@
----
-layout: post
-title: "2024-06-18-64 Recon with psymap-nmap.py"
-date: 2024-06-18
-categories: Reconnaissance | Enumeration
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /Recon-with-nmap/
----
 # Understanding Nmap Commands for Network Scanning
 
 Nmap (Network Mapper) is a powerful open-source tool used for network exploration and security auditing. It works by sending packets to target hosts and analyzing the responses to determine various aspects of the network, such as open ports, operating systems, and services running on the hosts.
