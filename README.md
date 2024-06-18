@@ -51,7 +51,6 @@ Full scans are comprehensive scans that leave no stone unturned in analyzing the
 - **Open SNMP Scan:** `sudo nmap -sU --open -p 161 TARGET -oG open-snmp.txt`
 
 
-```
 ## Usage
 ```sh
 python nmap_scan.py 192.168.50.149 -t regular
